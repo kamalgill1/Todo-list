@@ -1,0 +1,18 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.hell {
+  display: flex;
+  border: 1px solid black;
+  border-radius: 3px;
+  width: 36vw;
+  margin-left: 30vw;
+  height: 3vh;
+  top: 31vh;
+  position: absolute;
+}
+.hell i {
+  cursor: pointer;
+  margin-left: 36vw;
+}
